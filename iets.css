@@ -2,7 +2,14 @@ body{
   background-color: #00FFFF;
 }
 header{
+  font-family: 'VT323', monospace;
   background-color: orange;
   text-align: center;
   border-radius: 20px 20px 20px 20px;
+  font-size: 40px;
+}
+nav{
+  background-color: orange;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
 }
