@@ -23,8 +23,18 @@ ul{
 ul li{
   padding:10px;
 }
-article{
+#mij{
   background-color: orange;
   border-radius: 20px 20px 20px 20px;
   text-align: center;
+  margin-top: 5px;
+}
+iframe{
+  position: relative;
+  top: 80px;
+  left: 800px;
+}
+#ba{
+  background-color: orange;
+  border-radius: 20px 20px 20px 20px;
 }
