@@ -47,3 +47,10 @@ img{
   width: 600px;
   height: 200px;
 }
+#pr{
+  background-color: orange;
+  border-radius: 20px 20px 20px 20px;
+  text-align: center;
+  margin-top: 5px;
+  font-size: 20px;
+}
