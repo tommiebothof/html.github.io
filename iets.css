@@ -54,3 +54,11 @@ img{
   margin-top: 5px;
   font-size: 20px;
 }
+#proj{
+  width: 600px;
+  height: 300px;
+}
+#proj:hover{
+  width: 800px;
+  height: 400px;
+}
